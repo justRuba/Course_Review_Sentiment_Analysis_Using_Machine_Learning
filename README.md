@@ -84,7 +84,3 @@ The project demonstrates how traditional machine learning models perform on text
 - Evaluation of sentiment analysis models using multiple metrics
 
 
-
----
-
-## 📂 Project Structure
